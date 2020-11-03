@@ -1,0 +1,1 @@
+add_executable(new1 new1.cpp)
